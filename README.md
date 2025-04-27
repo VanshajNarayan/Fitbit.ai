@@ -6,4 +6,5 @@
    <br>
     
   <p align="center">Home Page</p> <br> <br>
-   ![image alt](/public/poster.png)
+  
+   ![image alt](/public/fitbit-ai.png)

@@ -2,5 +2,8 @@
 
 <br><br>
 
-1. Home Page <br> <br>
+   ![image alt](/public/poster.png)
+
+   
+2. Home Page <br> <br>
    ![image alt](/public/poster.png)

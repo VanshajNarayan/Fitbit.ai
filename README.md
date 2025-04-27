@@ -83,18 +83,3 @@ NEXT_PUBLIC_VAPI_API_KEY=
 # Convex Database
 CONVEX_DEPLOYMENT=
 NEXT_PUBLIC_CONVEX_URL=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

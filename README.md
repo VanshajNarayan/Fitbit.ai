@@ -1,1 +1,1 @@
-<h1 style={text: "center"}>💪 AI Fitness Assistant 🤖</h1>
+<h1 style={{ textAlign: "center" }}>💪 AI Fitness Assistant 🤖</h1>

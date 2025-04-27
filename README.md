@@ -3,7 +3,7 @@
 
    ![image alt](/public/poster.png)
 
-   <br> <br>
+   <br>
     
-2. Home Page <br> <br>
+  <p align="center">Home Page</p> <br> <br>
    ![image alt](/public/poster.png)

@@ -62,6 +62,88 @@
 
 <br>
 
+📦 Getting Started
+Follow these steps to get the project up and running locally:
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+# or
+yarn install
+Set up your environment variables as shown above.
+
+Run the development server:
+
+bash
+Copy
+Edit
+npm run dev
+# or
+yarn dev
+Open http://localhost:3000 in your browser to see the app.
+
+<br>
+🌐 Deployment
+This application can be easily deployed to Vercel:
+
+Build the application:
+
+bash
+Copy
+Edit
+npm run build
+# or
+yarn build
+Start the production server:
+
+bash
+Copy
+Edit
+npm run start
+# or
+yarn start
+Or connect your GitHub repository to Vercel for automatic deployments.
+
+<br>
+🖥️ Technologies Used
+Next.js: React framework for building the frontend and API routes
+
+Tailwind CSS & Shadcn UI: For styling and UI components
+
+Clerk: Authentication and user management
+
+Vapi: Voice agent platform for conversational AI
+
+Convex: Real-time database
+
+Gemini AI: Large Language Model for generating personalized fitness programs
+
+<br>
+📚 Learn More
+To learn more about the technologies used in this project, check out the official documentation:
+
+Next.js Documentation
+
+Clerk Documentation
+
+Vapi Documentation
+
+Convex Documentation
+
+Gemini AI Documentation
+
+<br>
+
 
 ## 🔑 Environment Variables
 
